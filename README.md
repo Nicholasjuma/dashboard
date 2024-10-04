@@ -42,7 +42,7 @@ The *Task Categories* section displays eight categories, each with an icon and a
 At the top of the screen, a *Progress Bar* dynamically updates to reflect how many tasks have been completed for the day. As tasks are marked complete, the bar fills up, and the percentage increases.
 
 *Screenshot: Progress Bar*
-> ![Progress Bar](./path_to_screenshot/progress_bar.png)
+> ![Progress Bar](./images/screenshoot 1.png)
 
 ---
 
@@ -51,7 +51,7 @@ At the top of the screen, a *Progress Bar* dynamically updates to reflect how ma
 This section shows cards or a list displaying the most *recently completed tasks* or user actions, updating dynamically as tasks are completed.
 
 *Screenshot: Recent Activity*
-> ![Recent Activity](./path_to_screenshot/recent_activity.png)
+> ![Recent Activity](./images/screenshoot 1.png)
 
 ---
 
@@ -60,7 +60,7 @@ This section shows cards or a list displaying the most *recently completed tasks
 I’ve implemented an *animated FAB* in the bottom right corner. When clicked, the button *rotates* and *changes color* as it spins, making it visually appealing and interactive. The FAB is used for adding new tasks.
 
 *Screenshot: Animated Floating Action Button*
-> ![Animated Floating Action Button](./path_to_screenshot/animated_fab.png)
+> ![Animated Floating Action Button](./images/screenshoot 1.png)
 
 ---
 
@@ -71,7 +71,7 @@ I’ve implemented an *animated FAB* in the bottom right corner. When clicked, t
 - The *Recent Activity Section* refreshes and reorders itself whenever a new task is completed, showing the most recent activity at the top.
 
 *Screenshot: User Interaction*
-> ![User Interaction](./path_to_screenshot/user_interaction.png)
+> ![User Interaction](./images/screenshoot 1.png)
 
 ---
 
@@ -100,4 +100,4 @@ The UI adheres to *Material Design* principles in several ways:
 This dashboard provides a clean, functional interface that helps users manage tasks effectively. By following Material Design principles, the app ensures a user-friendly, accessible experience across different devices.
 
 *Screenshot: Dashboard UI*
-> ![Dashboard UI](./path_to_screenshot/dashboard_ui.png)
+> ![Dashboard UI](./images/screenshoot 1.png)
