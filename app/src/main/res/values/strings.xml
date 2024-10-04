@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DashBoard</string>
+    <string name="add_task">2</string>
+    <string name="search">1</string>
+    <string name="search_hint">2</string>
+    <string name="settings">1</string>
+</resources>

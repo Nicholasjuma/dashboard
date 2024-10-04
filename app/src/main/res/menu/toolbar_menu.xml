@@ -1,0 +1,15 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/action_clear_tasks"
+        android:title="Clear Tasks"
+        android:icon="@drawable/ic_clear"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>
